@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 366 366" width="366" height="366">
+	<title>Ellipse 2</title>
+	<defs>
+		<linearGradient id="g1" x1="183" y1="365" x2="183" y2="1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#9f238e"/>
+			<stop offset=".5" stop-color="#ed4398"/>
+			<stop offset="1" stop-color="#ee456a"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path id="Ellipse 2" class="s0" d="m183 1c100.5 0 182 81.5 182 182 0 100.5-81.5 182-182 182-100.5 0-182-81.5-182-182 0-100.5 81.5-182 182-182z"/>
+</svg>

@@ -1,0 +1,66 @@
+@media(max-width: 1024px) {
+    .card.facts_card {
+        height: 100%;
+    }
+    .card.facts_card .card-body {
+        padding: 2rem 2rem;
+    }
+    .card.facts_card .card-footer img {
+        height: 18px;
+    }
+    section.get_started img.get_started_dog {
+        right: 0;
+    }
+    .content_box {
+        padding: 50px;
+    }
+    .pink_box {
+        padding: 50px;
+    }
+}
+@media(max-width: 767px) {
+    .hero_content {
+        margin-bottom: 80px;
+    }
+    footer .container {
+        display: flex;
+        flex-flow: column;
+    }
+    footer .container .logo {
+        margin-bottom: 30px;
+    }
+}
+@media(max-width: 600px) {
+    .fs-1 {
+        font-size: calc(2rem + 1.5vw)!important;
+    }
+    .container {
+        padding: 0 30px;
+    }
+    header {
+        padding: 40px;
+    }
+    .py-7 {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+    .content_box {
+        padding: 50px 24px;
+    }
+    header a.logo {
+        display: block;
+        text-align: center;
+    }
+    .hero_img img:not(.shape) {
+        width: 100%;
+        margin-left: 0;
+    }
+    .hero_img img.shape {
+        bottom: -20px;
+        left: 10px;
+    }
+    footer {
+        text-align: center;
+        padding: 50px 0;
+    }
+}
